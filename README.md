@@ -1,4 +1,6 @@
 ### Hi there 👋
 
-  [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=k-suke39&color=white&peng=false)](https://github.com/evirunurm/github-stats)
-  [![My Stats](https://github-stats-evirunurm.vercel.app/api/languages.js?username=k-suke39)](https://github.com/evirunurm/github-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-suke39&theme=swift)
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-suke39&show_icons=true&theme=swift)
+ 
